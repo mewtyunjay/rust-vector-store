@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+dist/
+build/
+*.egg-info/
+
+# Rust
+target/
+**/*.rs.bk
+
+# Temporary files
+*.tmp
+*.log 
