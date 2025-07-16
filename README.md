@@ -1,6 +1,6 @@
-# From Scratch
+# Vector Store From Scratch
 
-🚧 **Work In Progress** 🚧
+**Work In Progress**
 
 Implementing embeddings and vector storage from first principles.
 
